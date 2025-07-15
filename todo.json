@@ -1,0 +1,10 @@
+[
+    {
+        "description": "python practice",
+        "done": false
+    },
+    {
+        "description": "todo cli list",
+        "done": true
+    }
+]
